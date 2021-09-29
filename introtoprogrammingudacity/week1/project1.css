@@ -1,0 +1,49 @@
+/* This is a CSS comment. Notice that CSS comments are
+enclosed by different characters than HTML comments. */
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  font-family: Arial;
+  color: #ffffff;
+  background-color: #333333;
+}
+.footnote{
+  font-size: x-small;
+  background-color: #628f9e;
+}
+/* Attributes of the comments on each media form. */
+.comment {
+  max-width: 700px;
+  background-color: #628f9e;
+  border-radius: 15px;
+  padding: 10px
+}
+/* Flex and color. */
+.howshegothername{
+  display: -webkit-flex;
+  display: flex;
+}
+.herbabies{
+  display: -webkit-flex;
+  display: flex;
+}
+.cuddling{
+  display: -webkit-flex;
+  display: flex;
+}
+.glamour{
+  display: -webkit-flex;
+  display: flex;
+}.balls{
+  display: -webkit-flex;
+  display: flex;
+}
+/* Varying margins; total should always be 380. Center the slim ones. */
+.media{
+  margin-right: 60px;
+}
+.mediaslim{
+  margin-left: 40px;
+  margin-right: 100px;
+}
