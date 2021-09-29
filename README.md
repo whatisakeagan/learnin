@@ -9,5 +9,5 @@ This repository contains work from the following courses:
 - Udacity's [Programming for Data Science](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
 - Udacity's [Front End Web Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011)
 
-# Note
+# Note to Other Learners
 All work within this repository and elsewhere are my property. Given these programs are online, it's possible you're viewing this repository as someone else currently enrolled in one of these classes. Udacity, edX, and almost every other institution has academic honesty policies (AKA plagiarism policies), and as such copying any work herein violates those policies. But ultimately the biggest consequence will be when you haven't actually learned anything and will be unable to demonstrate your skills. Not to mention you're assuming I knew what I was doing when I was learning these things--your gamble, I suppose!
